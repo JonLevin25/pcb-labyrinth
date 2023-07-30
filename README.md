@@ -2,7 +2,9 @@
 
 A board made for Midburn projects (Labyrinth / Sangha).
 
-This repo contains the Gerber file (defining the PCB circuitry), and the BOM (the Bill of Materials, defining the components needed )
+This repo contains the Gerber file (defining the PCB circuitry), and the BOM/CPL (defining the placement for assembly)
+
+![image](./labyrinth_pcb_v0.4_01.png)
 
 # How to Order
 
